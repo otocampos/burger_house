@@ -1,6 +1,6 @@
 # Burger House App - Flutter
 
-![App Demo](https://www.dropbox.com/scl/fi/bqet1y05g9wx81gbz31qj/video-linkedin.mp4?rlkey=be1qrru0e1trnwbew272lkb4i&dl=0)
+![Demo Video](https://www.dropbox.com/scl/fi/bqet1y05g9wx81gbz31qj/video-linkedin.mp4?rlkey=be1qrru0e1trnwbew272lkb4i&dl=0)
 
 ## Description
 
